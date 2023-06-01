@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WRa6LC7bxqg2qGskXTk5JZ3phAvz3JKCx3EX+PhMEpwnCVFJAmVmVO3lW9//K2MNzVjtDCX6md3IXXuPQtEkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo-PC\\RiderProjects\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-PC\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
